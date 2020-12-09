@@ -1,0 +1,19 @@
+[{
+    "code": 1,
+    "title": "音频服务"
+}, {
+    "code": 2,
+    "title": "视频服务"
+}, {
+    "code": 3,
+    "title": "Janus网关"
+}, {
+    "code": 4,
+    "title": "消息服务"
+}, {
+    "code": 5,
+    "title": "录像服务"
+}, {
+    "code": 6,
+    "title": "信令服务"
+}]
